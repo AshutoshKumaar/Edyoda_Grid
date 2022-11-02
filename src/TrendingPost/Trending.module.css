@@ -1,0 +1,63 @@
+.trend_post {  
+    margin: 0px 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 30px;
+}
+.front_img {
+    margin-top: 90px;
+    width: 700px;
+    height: 600px;
+}
+.front_img h1 {
+   margin-bottom: 5px;
+   padding-top: 10px;
+   font-weight: 600;
+   text-transform: capitalize;
+   font-size: 35px;
+   word-spacing: 2px;
+   
+}
+
+
+.img img  {
+    width: 100%;
+    filter: brightness(80%);
+    cursor: pointer;
+}
+.img img:hover {
+    filter: brightness(90%);
+}
+
+
+.another_trend {
+    width: 340px;
+    margin-top: 105px;
+  
+}
+.f1 {
+    width: 100%;
+    margin-bottom: 10px;
+}
+.f1 img {
+    width: 100%;
+    filter: brightness(80%);
+}
+.f1 img:hover {
+    filter: brightness(100%);
+}
+.f2 {
+    width: 100%;
+    margin-bottom: 10px;
+    cursor: pointer;
+
+}
+.f2 img {
+    width: 100%;
+    filter: brightness(70%);
+    cursor: pointer;
+}
+.f2 img:hover {
+    filter: brightness(100%);
+}

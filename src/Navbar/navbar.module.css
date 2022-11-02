@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Freehand&family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap');
+.conatiner {
+    background-color: #fff;
+    box-shadow: 0 1px 1px #ccc;
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    height: 11vh;
+    align-items: center;
+    padding: 0px 30px;
+    /* position: relative; */
+    font-family: 'Noto Sans JP', sans-serif;
+    z-index: 1;
+    
+
+}
+.logo {
+    width: 150px;
+    height: 100%;
+   
+}
+.logo h1 {
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 900;
+    line-height: 15px;
+    padding-top: 10px;
+    background-image: linear-gradient(269deg,#0048ff,#0096ff),linear-gradient(#000,#000);
+    color: #0084ff;
+    background-clip: text;
+    /* -webkit-text-fill-color: transparent; */
+}
+.logo h1 span {
+    font-size: 16px;
+    font-weight: 300;
+    text-transform: capitalize;
+    line-height: 13px;
+    color: rgb(108, 101, 101);
+    
+}
+.categerious {
+    position: absolute;
+    left: 250px;
+    /* background-color: rebeccapurple; */
+    padding: 10px;
+    color: black;
+    font-weight: 400;
+    font-size: 15px;  
+}
+.disc {
+    width: 300px;
+    /* background-color: azure; */
+    margin-left:600px;
+    text-align: left;  
+}
+.disc p {
+    font-size: 13px;
+    color: rgb(167, 156, 156);
+}
+
+.btn button {
+    width: 200px;
+    height: 35px;
+    padding: 22px 25px;
+    background-color:#0084ff;;
+    border-radius: 30px;
+    line-height: 5px;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-weight: 600;
+    text-transform: capitalize;
+    
+    
+}

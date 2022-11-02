@@ -1,0 +1,37 @@
+.Footer {
+    background-color:#172146;
+    text-align: center;
+    color: #fff;
+    padding: 80px 10%;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: left;
+    
+}
+.row h5 {
+    font-weight: 600;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin: 0px;
+    color: #abb0c4;
+
+}
+.row p {
+    font-weight: 400;
+    font-size: 13px;
+    text-transform: capitalize;
+    color: #fff;
+
+}
+.email {
+    word-spacing: 10px;
+    font-size: 15px;
+}
+      
+.icon {
+    word-spacing: 15px;
+    font-size: 20px;
+}
+.para {
+    width: 250px;
+}
